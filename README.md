@@ -31,4 +31,5 @@ Contributions are more than welcome! If you have any ideas, enhancements, or bug
 * The app is built using the Flutter framework. Flutter is a cross-platform framework that can be used to build apps for iOS, Android, web, and desktop.
 * The app uses the Unsplash API, which requires a free API key. You can get an API key from the Unsplash website.<br><br>
 
-Get ready to embark on a weather adventure like no other! Stay informed, plan your day wisely, and enjoy the Awesome Flutter Weather App. 🌞🌧️🌪️
+## Made By
+Crafted with ❤️ by Yugam
