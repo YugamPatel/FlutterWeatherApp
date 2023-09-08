@@ -7,11 +7,14 @@ The Awesome Flutter Weather App is here to serve you. Using the OpenWeatherMap A
 * Get real-time weather updates for any city you desire!
 * Stay informed about the current wind speed in your chosen location.
 * Check out the humidity levels to plan your day effectively.
+* Changes the app background according to the City Entered!.
 * Experience the "feels like" temperature for a more accurate understanding of the weather conditions.<br><br>
 
 ## Sneak Peek 📸
-
-[![Screenshot of the weather app showing the current weather for Toronto](screenshot.png)](screenshot.png)<br><br>
+<p align = "center">
+<img src="https://github.com/YugamPatel/FlutterWeatherApp/blob/main/flutterWeatherAppV1.png" width="300" height="600" align="left"></img> 
+<img src="https://github.com/YugamPatel/FlutterWeatherApp/blob/main/flutterWeatherAppV2.png" width="300" height="600"></img>
+</p><br><br>
 
 ## Let's Get Started! 🚀
 
