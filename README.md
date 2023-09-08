@@ -14,7 +14,7 @@ The Awesome Flutter Weather App is here to serve you. Using the OpenWeatherMap A
 <p align = "center">
 <img src="https://github.com/YugamPatel/FlutterWeatherApp/blob/main/flutterWeatherAppV1.png" width="300" height="600" align="left"></img> 
 <img src="https://github.com/YugamPatel/FlutterWeatherApp/blob/main/flutterWeatherAppV2.png" width="300" height="600"></img>
-</p><br><br>
+</p><br>
 
 ## Let's Get Started! 🚀
 
